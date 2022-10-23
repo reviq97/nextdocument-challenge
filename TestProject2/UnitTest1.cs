@@ -35,7 +35,7 @@ public class UnitTest1
         var toIncrement = Program.GetNextDocumentNumber(s);
 
         //assert
-        Assert.Equal("BZ-0000", toIncrement);
+        Assert.Equal("BA-0000", toIncrement);
     }
     
     [Fact]

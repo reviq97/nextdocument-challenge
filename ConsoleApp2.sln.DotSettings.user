@@ -5,5 +5,6 @@
     &lt;TestId&gt;xUnit::ECFDDEE5-4F3B-4096-BA2B-DA3441552994::net6.0::TestProject2.UnitTest1.Increment&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;xUnit::ECFDDEE5-4F3B-4096-BA2B-DA3441552994::net6.0::TestProject2.UnitTest1.Change_Letter_ReturnsChangedLetterTwo&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;xUnit::ECFDDEE5-4F3B-4096-BA2B-DA3441552994::net6.0::TestProject2.UnitTest1.Change_Letter_ReturnsChangedLetterThree&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::ECFDDEE5-4F3B-4096-BA2B-DA3441552994::net6.0::TestProject2.UnitTest1.Change_Letter_ReturnsChangedLetter&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
