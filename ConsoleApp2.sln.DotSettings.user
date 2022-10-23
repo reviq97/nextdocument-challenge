@@ -1,0 +1,9 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=174da147_002D3b57_002D4d20_002Db46d_002Df4ef4c6af571/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Increment_SingleNumber_ReturnsIncremented" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::ECFDDEE5-4F3B-4096-BA2B-DA3441552994::net6.0::TestProject2.UnitTest1.Increment_SingleNumber_ReturnsIncremented&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::ECFDDEE5-4F3B-4096-BA2B-DA3441552994::net6.0::TestProject2.UnitTest1.Increment&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::ECFDDEE5-4F3B-4096-BA2B-DA3441552994::net6.0::TestProject2.UnitTest1.Change_Letter_ReturnsChangedLetterTwo&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::ECFDDEE5-4F3B-4096-BA2B-DA3441552994::net6.0::TestProject2.UnitTest1.Change_Letter_ReturnsChangedLetterThree&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
